@@ -7,4 +7,4 @@
 This is an add-on for the Bare Bones texture pack that transforms the mace into a bold 3D model, adding depth and realism while keeping the pack’s signature minimalist style. This pack enhances combat visuals without compromising the simple aesthetic.
 
 ---
-![]()
+![](https://raw.githubusercontent.com/PrincParshia/Bare-Bones-3D-Mace/refs/heads/assets/in-game-view.png)
